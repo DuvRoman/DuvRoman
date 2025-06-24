@@ -7,3 +7,8 @@
 ## Contacto
 
 **<duvan.roman07@gmail.com>**
+
+### :zap: Commits recientes
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
