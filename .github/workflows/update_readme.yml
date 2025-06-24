@@ -1,16 +1,3 @@
-
-# .github/recent-activity.config.yml
-
-# Your GitHub username
-username: DuvRoman
-
-# The maximum number of events to show
-max: 5
-
-# A list of repositories to exclude
-exclude:
-  - my-private-repo
-
 name: Update README2
 
 on:
