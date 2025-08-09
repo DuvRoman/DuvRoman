@@ -10,11 +10,12 @@
 
 ### :zap: Commits recientes
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DuvRoman/crudTaller](https://github.com/DuvRoman/crudTaller)<br>
-2. 📔 Created new repository [DuvRoman/crudTaller](https://github.com/DuvRoman/crudTaller)<br>
-3. 📔 Created new repository [DuvRoman/crudTaller](https://github.com/DuvRoman/crudTaller)<br>
-4. 📔 Created new repository [DuvRoman/ClassRoomAppS](https://github.com/DuvRoman/ClassRoomAppS)<br>
+1. 📔 Created new repository [DuvRoman/Pokem-nCards](https://github.com/DuvRoman/Pokem-nCards)<br>
+2. 📔 Created new repository [DuvRoman/Pokem-nCards](https://github.com/DuvRoman/Pokem-nCards)<br>
+3. ⬆️ Pushed 1 commit(s) to [DuvRoman/crudTaller](https://github.com/DuvRoman/crudTaller)<br>
+4. 📔 Created new repository [DuvRoman/crudTaller](https://github.com/DuvRoman/crudTaller)<br>
+5. 📔 Created new repository [DuvRoman/crudTaller](https://github.com/DuvRoman/crudTaller)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 9th, 2025, 2:47:05 AM
+Last Updated: Saturday, August 9th, 2025, 12:21:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
