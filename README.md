@@ -10,12 +10,12 @@
 
 ### :zap: Commits recientes
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [DuvRoman/DashBoardTiendaComidas](https://github.com/DuvRoman/DashBoardTiendaComidas)<br>
-2. 📔 Created new repository [DuvRoman/ApiCrud](https://github.com/DuvRoman/ApiCrud)<br>
-3. 📔 Created new repository [DuvRoman/Pokem-nCards](https://github.com/DuvRoman/Pokem-nCards)<br>
-4. 📔 Created new repository [DuvRoman/Pokem-nCards](https://github.com/DuvRoman/Pokem-nCards)<br>
-5. ⬆️ Pushed 1 commit(s) to [DuvRoman/crudTaller](https://github.com/DuvRoman/crudTaller)<br>
+1. 🔱 Forked [DuvRoman/Taller_Restaurante](https://github.com/DuvRoman/Taller_Restaurante) from [Juanjacd/Taller_Restaurante](https://github.com/Juanjacd/Taller_Restaurante)<br>
+2. ⬆️ Pushed 1 commit(s) to [DuvRoman/Examen1-Back](https://github.com/DuvRoman/Examen1-Back)<br>
+3. ⬆️ Pushed 1 commit(s) to [DuvRoman/Examen1-Back](https://github.com/DuvRoman/Examen1-Back)<br>
+4. 📔 Created new repository [DuvRoman/Examen1-Back](https://github.com/DuvRoman/Examen1-Back)<br>
+5. 📔 Created new repository [DuvRoman/DashBoardTiendaComidas](https://github.com/DuvRoman/DashBoardTiendaComidas)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 16th, 2025, 12:59:34 PM
+Last Updated: Sunday, August 17th, 2025, 1:03:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
